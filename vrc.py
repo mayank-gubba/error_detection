@@ -85,3 +85,5 @@ while run==True:
         run=False
     else:
         print('CHOOSE A CORRECT VALUE')
+
+print("testing")
